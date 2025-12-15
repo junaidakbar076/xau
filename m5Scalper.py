@@ -36,8 +36,9 @@ load_dotenv()
 
 # ---------------- CONFIG ----------------
 MAJOR_PAIRS = [
-    "XAUUSD", "EURUSD", "GBPUSD", "USDJPY", "AUDUSD",
-    "NZDUSD", "USDCAD", "USDCHF"
+    "XAUUSD", 
+    # "EURUSD", "GBPUSD", "USDJPY", "AUDUSD",
+    # "NZDUSD", "USDCAD", "USDCHF"
 ]
 
 TIMEFRAME_M1 = mt5.TIMEFRAME_M1
