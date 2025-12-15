@@ -28,7 +28,7 @@ dist/
 *.tmp
 *.swp
 *.bak
-
+*.csv
 # --------------------
 # Jupyter Notebook
 # --------------------
