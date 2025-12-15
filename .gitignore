@@ -28,7 +28,7 @@ dist/
 *.tmp
 *.swp
 *.bak
-*.csv
+trades_log.csv
 # --------------------
 # Jupyter Notebook
 # --------------------
