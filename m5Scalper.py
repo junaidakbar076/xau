@@ -436,6 +436,7 @@ def main_loop():
                             continue
 
                         trend = m5_trend_direction(symbol)
+                        print(f"Trend for {symbol}: {trend}")
                         if trend is None:
                             continue
 
